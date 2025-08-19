@@ -1,4 +1,4 @@
-# NorthernPay Smart Contract Repository
+# NorthernPay™️ Smart Contract Repository
 
 **Contract Address:** `0xa6cC027c3Bba1793B53b626974Ba1f38321F356b`  
 **Network:** Polygon (MATIC)  
@@ -9,7 +9,7 @@
 
 ## 📖 Overview
 
-This repository hosts the verified Solidity source code for the **NorthernPay** smart contract deployed on the Polygon blockchain.  
+This repository hosts the verified Solidity source code for the **NorthernPay™️** smart contract deployed on the Polygon blockchain.  
 
 The purpose of this repository is to:
 - Preserve a copy of the **verified source** of the deployed contract.  
