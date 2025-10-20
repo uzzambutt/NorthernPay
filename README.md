@@ -21,13 +21,27 @@ This contract is already verified on PolygonScan, and the original source can be
 ---
 
 ## 📂 Repository Structure
+```
 NorthernPay/
+├── Contract/
+│   ├── NorthernPay.sol
+│   ├── Migrations.sol
+│   └── Interfaces/
 │
-├── Contracts/ # Contains Solidity smart contracts
-│ └── <VerifiedContract>.sol
+├── Security Audits/
+│   ├── Tokenomics_audit_report.pdf
+│   └── Contract_security_audit.pdf
 │
-├── LICENSE # PolyForm Noncommercial License 1.0.0
-├── README.md # Documentation (this file)
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── utils/
+│
+├── LICENSE
+├── README.md
+└── SECURITY.md
+```
 
 ---
 
