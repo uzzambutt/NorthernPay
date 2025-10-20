@@ -24,9 +24,7 @@ This contract is already verified on PolygonScan, and the original source can be
 ```
 NorthernPay/
 ├── Contract/
-│   ├── NorthernPay.sol
-│   ├── Migrations.sol
-│   └── Interfaces/
+│   ├── NorthernPay Contract
 │
 ├── Security Audits/
 │   ├── Tokenomics_audit_report.pdf
@@ -34,9 +32,7 @@ NorthernPay/
 │
 ├── src/
 │   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
+│   └── images/
 │
 ├── LICENSE
 ├── README.md
