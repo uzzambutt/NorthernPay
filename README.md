@@ -186,4 +186,4 @@ See [LICENSE](./LICENSE) for the full terms.
 ## 📧 Contact
 For inquiries, questions, or commercial licensing requests:
 **Email:** [info@northernstudios.cc](mailto:info@northernstudios.cc)
-**Website:**[northernstudios.cc](https://northernpay.northernstudios.cc)
+**Website:**[northernpay.org](https://northernpay.org)
